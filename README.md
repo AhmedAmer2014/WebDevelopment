@@ -93,6 +93,10 @@
     
    - Build E-commerce website with PHP, MySQL, jQuery and PayPal https://www.youtube.com/playlist?list=PLf140rGNfPsAMp4o0HmF7xMg4-sFWccYY
   
+   - Php 101 (abdlullah eid)            https://www.youtube.com/playlist?list=PLA26082B45526FE13
+    
+   - Mysql 101 (abdlullah eid)          https://www.youtube.com/playlist?list=PLA410065ED903BCA9
+   
    - web development                    https://www.youtube.com/playlist?list=PLulkaz1RYrVspkP0UxPAUkca5AZw4RgTv
    
    - php tutorials                      https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b
