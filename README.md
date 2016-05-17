@@ -49,7 +49,7 @@
    
 # 4- Youtube Tutorials
   
-   Html and Css:
+# Html and Css:
 
    - intro to html and css                                   https://www.youtube.com/playlist?list=PLAwxTw4SYaPmd5v7c9i883AwqVZquegHM
     
@@ -63,7 +63,7 @@
    
    - html5 and css3                   https://www.youtube.com/playlist?list=PL41lfR-6DnOruqMacTfff1zrEcqtmm7Fv
  
-   JavaScript:
+#  JavaScript:
    
    - JavaScript for beginners(1)      https://www.youtube.com/playlist?list=PL41lfR-6DnOrwYi5d824q9-Y6z3JdSgQa
    
@@ -84,9 +84,11 @@
    - JavaScript Design Patterns       https://www.youtube.com/playlist?list=PLAwxTw4SYaPkGKjpeiLWz8ydvFEkmRkBn
     
    - JS:Understanding the Weird Parts https://www.youtube.com/playlist?list=PLIn1Yut6MvccYKkaDHDJKECpN1LMDTpha
-
-   PHP and Mysql:
+   
  
+# PHP and Mysql:
+
+
    - PHP with MySQL Essential Training https://www.youtube.com/playlist?list=PL0nAjsjYSfCGKfDn7OMQVO_Gq-KRU8tR5
     
    - Projects in PHP and MySQL         https://www.youtube.com/playlist?list=PLFgUdubu2ofjuWm14mwzddzKTo5gqYvB3
