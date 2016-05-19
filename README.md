@@ -74,6 +74,8 @@
    - JavaScript Planet                https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/playlists
     
    - Jquery                           https://www.youtube.com/playlist?list=PLr6-GrHUlVf_RNxQQkQnEwUiHELmB0fW1
+    
+   - jquery (jeffery way)             https://www.youtube.com/playlist?list=PLaQXlPB7DGM_YC5IxreMYpIEs8l70rGHo
    
    - anthoer Jquery                   https://www.youtube.com/playlist?list=PLoYCgNOIyGABdI2V8I_SWo22tFpgh2s6_
     
@@ -90,6 +92,8 @@
 
 
    - PHP with MySQL Essential Training https://www.youtube.com/playlist?list=PL0nAjsjYSfCGKfDn7OMQVO_Gq-KRU8tR5
+    
+   - Php Fundamental (jeffry way)      https://www.youtube.com/playlist?list=PLxrvfSN2knYPktbdvsg4jHRvCpTHTQskX
     
    - Projects in PHP and MySQL         https://www.youtube.com/playlist?list=PLFgUdubu2ofjuWm14mwzddzKTo5gqYvB3
     
